@@ -28,7 +28,7 @@ public class Servidor {
 
                 //Reading message from the client
                 String message= in.readUTF();
-                System.out.println("message");
+                System.out.println(message);
 
                 //Sending message to the client
                 out.writeUTF("Hello world from the server!");

@@ -17,7 +17,7 @@ public class Cliente {
             out= new DataOutputStream(sc.getOutputStream());
 
             //Sending message to the server
-            out.writeUTF("Hello worl from the client!");
+            out.writeUTF("Hello world from the client!");
 
             //Reading message from the server
             String message= in.readUTF();
