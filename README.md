@@ -1,4 +1,4 @@
-# Java_TCPConnection
+# Java_TCPConnection 🔌
 Simple TCP connection developed with Java.
 
 This project has two java classes, 'Cliente' (From Cliente.java) and 'Servidor' (From Servidor.java). The objective of this program is to create a simple TCP (Transmission Control Protocol) connection with Sockets.
